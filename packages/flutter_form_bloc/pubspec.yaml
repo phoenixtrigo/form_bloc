@@ -16,7 +16,7 @@ dependencies:
   form_bloc: ^0.19.1
   #form_bloc:
      #path: ../form_bloc
-  rxdart: ^0.25.0
+  rxdart: ^0.24.1
   flutter_keyboard_visibility: ^4.0.3
   collection: ^1.15.0
   intl: ">=0.15.1 <0.17.0"
